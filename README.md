@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin Logo" width="120" />
+  <img src="https://github.com/omersefacarikci/omersefacarikci/blob/main/kotlinbanner.gif" alt="Banner" />
 </p>
 
 <h1 align="center">KotlinDevHub</h1>
